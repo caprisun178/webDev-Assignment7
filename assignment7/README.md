@@ -19,4 +19,4 @@ The project uses multiple components:
 
 ## Reflection
 
-This project was great for showing how react breaks down a page into different components. Which is cleaner to review and debug, in my opinion. I struggled a bit with the functions and effect logic but using my notes and online resources I was able to get it to work. I would definetly say I need more practice to complete these changes without help.
+This project was great for showing how react breaks down a page into different components. Which is cleaner to review and debug, in my opinion. I struggled a bit with the functions and effect logic but using my notes and online resources I was able to get it to work. I would definetly say I need more practice to complete these changes without help. I also looked up different css styles to help animate the movement!

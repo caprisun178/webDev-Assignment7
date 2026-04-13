@@ -1,0 +1,47 @@
+.player-throw h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.throw-options {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.throw-button {
+  border: 2px solid transparent;
+  background-color: #fafafa;
+  border-radius: 8px;
+  padding: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  min-width: 120px;
+}
+
+.throw-button:hover {
+  transform: scale(1.05);
+}
+
+.throw-button.selected {
+  border-color: #0077cc;
+}
+
+.throw-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.throw-button img {
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+.throw-button span {
+  display: block;
+  text-align: center;
+  text-transform: capitalize;
+}

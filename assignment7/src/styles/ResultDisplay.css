@@ -1,0 +1,9 @@
+.result-display {
+  text-align: center;
+}
+
+.result-text {
+  margin-top: 16px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

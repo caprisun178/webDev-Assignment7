@@ -1,0 +1,16 @@
+.reset-section {
+  text-align: center;
+}
+
+.reset-button {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.reset-button:hover {
+  background-color: #005fa3;
+}

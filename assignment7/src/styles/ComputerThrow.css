@@ -1,0 +1,27 @@
+.computer-throw {
+  text-align: center;
+}
+
+.computer-image-box img {
+  width: 120px;
+  height: 120px;
+  margin: 10px 0;
+}
+
+.shuffle {
+  animation: pulse 0.5s linear infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.08);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

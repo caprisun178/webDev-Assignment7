@@ -1,0 +1,19 @@
+.scoreboard h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.score-grid {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.score-card {
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  padding: 16px;
+  min-width: 120px;
+  text-align: center;
+}
